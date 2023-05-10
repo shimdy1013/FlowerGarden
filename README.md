@@ -12,3 +12,11 @@
 * 회원가입 시 DB에 data 저장
 #### 실행 화면
 <img width="679" alt="스크린샷 2022-11-07 오전 3 57 39" src="https://user-images.githubusercontent.com/79740101/200189738-c692a728-15c0-40f5-97ea-ef23cb06cd02.png">
+이메일 로그인만 구현(구글, 애플 로그인 구현 X)
+작성 파일 
+* ESignUpOwnerViewController
+* ESignUpUserViewController
+* EmailLoginViewController
+* GSignUpOwnerViewController
+* OwnerUserViewController
+* LoginViewController
